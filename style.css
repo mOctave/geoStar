@@ -1,0 +1,27 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a {
+    background-color: gold;
+    padding: 20px;
+    text-decoration: none;
+    font-size: large;
+    color: goldenrod;
+}
+
+button {
+    background-color: gold;
+    padding: 20px;
+    text-decoration: none;
+    font-size: large;
+    color: goldenrod;
+}
+
+a:hover {
+    background-color: lightgoldenrodyellow;
+}
+
+button:hover {
+    background-color: lightgoldenrodyellow;
+}
